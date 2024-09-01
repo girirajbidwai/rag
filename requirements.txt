@@ -1,0 +1,7 @@
+Flask==2.2.3
+python-dotenv==1.0.0
+werkzeug==2.2.3
+sentence-transformers==2.2.2
+langchain-community==0.0.7
+pinecone-client==2.0.0
+openai==0.27.1
